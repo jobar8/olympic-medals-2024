@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the repository of the Python code behind the "Medal Table Paris 2024" Streamlit app.
+This is the repository of the Python code behind the [Medal Table Paris 2024](https://olympic-medals-2024.streamlit.app/) Streamlit app.
 
 The app gives the user the ability to change the way rankings are calculated by using weights for
 each type of medals.
